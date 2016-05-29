@@ -1,0 +1,6 @@
+# IDE specific folders/files
+**/.idea
+**/*.iml
+
+# Build tool specific folder
+**/target
